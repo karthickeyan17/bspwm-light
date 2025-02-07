@@ -1,0 +1,56 @@
+[colors.primary]
+background = "#0a0a1a"  # Deep space blue
+foreground = "#c3c7f7"  # Soft neon blue text
+
+[colors.normal]
+black   = "#0a0a1a"  # Very dark blue
+red     = "#ff5c57"  # Bright cyber red
+green   = "#5af78e"  # Soft neon green
+yellow  = "#f3f99d"  # Pale neon yellow
+blue    = "#57c7ff"  # Bright neon blue
+magenta = "#ff6ac1"  # Neon pink-magenta
+cyan    = "#9aedfe"  # Light neon cyan
+white   = "#f1f1f1"  # Soft white
+
+[colors.bright]
+black   = "#686868"
+red     = "#ff5c57"
+green   = "#5af78e"
+yellow  = "#f3f99d"
+blue    = "#57c7ff"
+magenta = "#ff6ac1"
+cyan    = "#9aedfe"
+white   = "#ffffff"
+
+[colors.cursor]
+text = "#0a0a1a"
+cursor = "#57c7ff"  # Electric blue cursor
+
+[colors.selection]
+text = "#0a0a1a"
+background = "#57c7ff"  # Blue highlight for selection
+
+[colors.footer_bar]
+background = "#121232"
+foreground = "#57c7ff"
+
+[font]
+size = 12
+
+[font.normal]
+family = "Iosevka"
+style = "Bold"
+
+[font.offset]
+x = 0
+y = 0
+
+[window]
+dynamic_padding = false
+dynamic_title = true
+title = "Alacritty"
+
+[window.padding]
+x = 8
+y = 10
+

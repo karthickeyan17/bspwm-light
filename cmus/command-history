@@ -1,0 +1,11 @@
+q
+add /vol1/songs/
+clear 
+update-cache 
+/kodu
+clear
+filter 7
+filter 
+fset unheard=play_count=0
+fset classical=genre="Classical"
+fset 90s=date>=1990&date<2000

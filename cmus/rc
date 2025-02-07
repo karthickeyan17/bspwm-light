@@ -1,0 +1,25 @@
+
+
+set softvol=true
+
+set show_remaining_time=true
+
+set show_current_bitrate=true
+
+set show_playback_position=true
+
+set follow=true
+
+set mouse=false
+
+
+# Playback settings
+set replaygain=album
+set continue=true
+set repeat=false
+set shuffle=false
+
+# UI Layout Settings
+set show_remaining_time=true
+set show_playback_position=true
+
